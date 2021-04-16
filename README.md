@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# React dynamic form
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+React dynamic form example.
 
 ## Available Scripts
 
